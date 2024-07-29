@@ -1,5 +1,5 @@
 .box{
-    background-color: hsl(0, 100%, 53%);
+    background-color: rgb(248, 6, 6);
     background-attachment: fixed;
     background-size: cover;
     height: 100vh;
@@ -8,6 +8,7 @@
 .data-text{
     font-size: xx-large;
     color: aliceblue;
+    font-family: sans-serif;
 }
 #header {
     display: flex;
